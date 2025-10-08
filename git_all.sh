@@ -1,6 +1,6 @@
 # 1. 回到專案根目錄
-cd /workspaces/geophysics-class-2025
 
+cd /workspaces/geophysics-class-2025
 # 2. 查看當前狀態 (可選，但建議)
 git status
 
