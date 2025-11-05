@@ -47,7 +47,7 @@ try:
         outfile=filename_plot,      # 儲存繪圖結果
         size=(1200, 400),           # 圖片大小 (寬, 高)
         title=f"Waveform from {network}.{station}.{location}.{channel}",
-        show=False                  # 在 Notebook 中不顯示，直接儲存
+        show=False               # 在 Notebook 中不顯示，直接儲存
     )
     
     # 5. 儲存 MiniSEED 數據 (Saving)
